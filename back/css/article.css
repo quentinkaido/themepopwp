@@ -1,0 +1,12 @@
+#content{
+  text-align: center;
+
+}
+
+.post_content{
+  text-align: center;
+  background-color: red;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+}
