@@ -1,0 +1,33 @@
+@media screen and (max-width: 640px) {
+  footer{
+    display: none;
+  }
+
+  .logopop{
+    width: 90%;
+    margin: -10px;
+  }
+
+  .menu-item{
+    margin: 0;
+  }
+
+.titlehomepage02{
+  font-size: 2em;
+}
+
+@media screen and (max-width: 730px) {
+
+  .logopop{
+    width: 100%;
+    margin: -10px;
+  }
+
+  .menu-item{
+    margin: 0;
+  }
+
+
+  .imgcercle{
+  margin-left: 50;
+  }

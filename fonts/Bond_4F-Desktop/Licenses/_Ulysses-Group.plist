@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>450204839</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Desktop License.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>479639377.727862</real>
+				<key>lastModification</key>
+				<real>479639377.727862</real>
+				<key>version</key>
+				<dict>
+					<key>dac7d328a7d63e52da7799ed723c49c6cc0e9853a0be36fe0639784ae1b1419e</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Desktop License.txt</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>dac7d328a7d63e52da7799ed723c49c6cc0e9853a0be36fe0639784ae1b1419e</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>dac7d328a7d63e52da7799ed723c49c6cc0e9853a0be36fe0639784ae1b1419e</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

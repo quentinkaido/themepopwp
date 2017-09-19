@@ -6,9 +6,12 @@ Author URI: pop.eu.com
 Version: 1.0.0
 */
 
+@font-face {
+font-family: 'bond';
+src: url('wp-content/themes/popschool/fonts/Bond_4F-Desktop/Fonts/Bond_4F_Light.otf') format('truetype');
+}
 
 body{
-  width: 100%;
   height: 100%;
   padding: 10px;
 }
@@ -21,10 +24,12 @@ body{
 }
 
 #txt_header{
+  position: relative;
   text-align: center;
   width: 100%;
   padding-left: 40px;
   padding-right: 40px;
+
 
 }
 
@@ -32,19 +37,21 @@ body{
   font-size: 24px;
 }
 
+
 .titlehomepage01{
   padding: 20px;
   font-size: 4em;
+  text-align: center;
 }
 
 .titlehomepage02{
   padding: 50px;
   font-size: 4em;
   margin: 2%;
+  text-align: center;
 }
 
 .zeroscroll{
-
   margin: 10px;
 }
 
@@ -54,27 +61,26 @@ body{
   margin-right: 10%;
   margin-top: 10%;
   margin-bottom: 5%;
+}
 
+.firstscroll_02{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
 }
 
 .menu-item{
   text-align: center;
-  margin: 60px;
+  margin: 50px;
+  margin-bottom: 20vh;
   color: black;
 }
 
-#menu-item{
-  padding-left: 70px;
-  padding-right: 70px;
-}
 
-.secondscroll{
-
-}
 
 .imgcercle{
   margin: auto;
-  padding: 30px;
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -90,26 +96,45 @@ body{
   padding-right: 50px;
 }
 
+.img_replacement{
+  background-color: #77B756;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+}
+
+/*inscription*/
+
+.btnforinscri{
+  text-align: center;
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+
+.btn_inscri{
+  margin: 0;
+  font-family: bebas;
+  font-size: 30px;
+}
+
+
+
 /*footer*/
 
 footer {
-
-  
   text-align: center;
   padding-top: 3%;
-  margin-left: 4vh;
-
+  margin-left: 7vh;
 }
 
 ul.test{
   display:flex;
   justify-content: center;
-  padding-top: 10px;
+  padding-top: 5vh;
   margin-right: 1%;
-  margin-bottom: 5px;
 }
 
-.test li{
+.test #btn_home{
   display:flex;
   justify-content: center;
   align-items: center;
@@ -118,6 +143,7 @@ ul.test{
   height: 65px;
   border-radius: 50%;
   color:white;
+  border-color: none;
 
 
 }
@@ -136,4 +162,15 @@ ul.test{
 
 .blue{
   background-color: #21B3DA;
+}
+
+.txt_btn_home{
+  text-align: center;
+  font-size: 8px;
+  margin: auto;
+  font-family:bebas;
+}
+
+.btn-primary{
+  border-color: inherit;
 }
