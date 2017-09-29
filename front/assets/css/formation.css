@@ -1,0 +1,55 @@
+#Accueil {
+  background-color: grey;
+  height: 352px;
+  /*position: relative;*/
+  max-width: 100%;
+  width: 100%;
+}
+
+.intro {
+  font-weight: bold;
+  left: 50%;
+  position: absolute;
+  margin: 0;
+  max-width: 100%;
+  top: 50%;
+  transform: translate(-50%, -450%);
+}
+
+.intro2 {
+  border-top: 5px solid black;
+  border-right: 60px solid black;
+  border-bottom: 5px solid black;
+  border-left: 60px solid black;
+  background-color: black;
+  color: white;
+  /*font-size: 40px;*/
+  font-weight: bold;
+  left: 50%;
+  position: absolute;
+  margin: 0;
+  max-width: 100%;
+  top: 50%;
+  transform: translate(-50%, -275%);
+}
+
+.Title {
+  padding-top: 5%;
+}
+
+.About {
+  padding-top: 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+.titleformation{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.number {
+  font-size: 70px;
+  font-weight: bold;
+}
