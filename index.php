@@ -25,7 +25,7 @@
       <div class="col-md-12">
         <div id="txt_header">
           <br><br><br>
-          <img class="logopop" src="wp-content/themes/popschool/front/assets/img/pop.svg" alt="logo">
+          <img class="logopop" src="wp-content/themes/popschool/front/assets/img/popschool.png" alt="logo">
           <div class="titlehomepage01">
           </div>
           <h1>PopSchool, fabrique du numérique</h1>
