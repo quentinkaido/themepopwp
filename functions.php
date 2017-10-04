@@ -42,7 +42,7 @@
 */
 
 //Fire Customizr
-require_once( get_template_directory() . '/core/init-base.php' );
+
 
 
 /**
