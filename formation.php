@@ -1,9 +1,9 @@
-<?php get_header();?>
 <html>
 <head>
   <meta charset="utf-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-  <link rel="stylesheet" href="wp-content/themes/popschool/front/assets/css/formation.css">
+  <link rel="stylesheet" href="front/assets/css/formation.css">
+  <link rel="stylesheet" href="front/assets/css/footer.css">
   <title>Les Formations</title>
 </head>
 <body>
@@ -13,7 +13,7 @@
       <h1 class="intro">NOM DE LA FORMATION</h1>
     </div>
     <div>
-      <h2 class="intro2">JE M'INSCRIS !</h2>
+      <a href="#"><h2 class="intro2">JE M'INSCRIS !</h2></a>
     </div>
   </div>
 
@@ -102,6 +102,8 @@
       </div>
     </div>
   </div>
+
+  <?php include("footer.php") ?>
 
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <!-- <script type="text/javascript" src="wp-content/themes/popschool/front/assets/js/hamburger.js"></script> -->

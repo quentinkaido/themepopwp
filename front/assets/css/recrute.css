@@ -1,12 +1,12 @@
-.textrecrute {
-  margin-left: 10%;
-  margin-right: 10%;
+.intro3{
+  text-align: center;
+  padding: 10%;
+  
 }
 
+body{
+  width: 100%;
+}
 #accompagnement{
-  margin-bottom: 20%;
   margin-top: 10%;
-}
-
-.text{
 }
