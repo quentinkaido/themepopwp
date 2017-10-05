@@ -109,8 +109,8 @@
           </div>
           <div class="btnforinscri">
             <button  id="btn_inscri" name="singlebutton" class="btn btn-primary pink"><a data-target='#create_student' data-toggle='modal'><i class="glyphicon glyphicon-plus" >
-              <p class="btn_inscri" id=>Inscription en ligne</p>
-            </button>>
+              <p class="btn_inscri">Inscription en ligne</p>
+            </button>
           </div>
         </div>
       </div>
