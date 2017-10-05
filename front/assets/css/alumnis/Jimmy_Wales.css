@@ -1,0 +1,164 @@
+p {
+  font-weight: bold;
+}
+
+#Wales {
+  background-color: grey;
+  height: 352px;
+  max-width: 100%;
+  width: 100%;
+}
+
+.intro {
+  /*font-size: 40px;*/
+  color: white;
+  font-weight: bold;
+  left: 50%;
+  position: absolute;
+  margin: 0;
+  max-width: 100%;
+  top: 50%;
+  transform: translate(-50%, -450%);
+}
+
+.intro2 {
+  /*border-top: 5px solid black;
+  border-right: 60px solid black;
+  border-bottom: 5px solid black;
+  border-left: 60px solid black;
+  background-color: black;*/
+  color: white;
+  /*font-size: 40px;*/
+  font-weight: bold;
+  left: 50%;
+  position: absolute;
+  margin: 0;
+  max-width: 100%;
+  top: 50%;
+  transform: translate(-50%, -350%);
+}
+
+#Alexis {
+  height: 300px;
+  width: 200px;
+}
+
+#Amélie {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Sébastien {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Évelyne {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Émile {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Maxime {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Cathy {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Laurent {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Gaëtan {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Nicolas {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Vincent {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Théo {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Karine {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Quentin {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Tom {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Albin {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Ophélie {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Rémy {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Rudy {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Alicia {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+#Stéphane {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}

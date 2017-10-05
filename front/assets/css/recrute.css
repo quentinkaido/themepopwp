@@ -1,11 +1,17 @@
+@font-face {
+font-family: 'bond';
+src: url('/wp-content/themes/popschool/fonts/Bond_4F-Desktop/Fonts/Bond_4F_Medium.otf') format('opentype');
+}
+
 .intro3{
   text-align: center;
   padding: 10%;
-  
+
 }
 
 body{
   width: 100%;
+  font-family: 'bond';
 }
 #accompagnement{
   margin-top: 10%;

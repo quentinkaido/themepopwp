@@ -1,3 +1,13 @@
+@font-face {
+font-family: 'bond';
+src: url('/wp-content/themes/popschool/fonts/Bond_4F-Desktop/Fonts/Bond_4F_Medium.otf') format('opentype');
+}
+
+
+body{
+ font-family: 'bond';
+}
+
 #Accueil {
   background-color: grey;
   height: 352px;

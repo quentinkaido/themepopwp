@@ -26,7 +26,7 @@
       <a id="btn_home" name="singlebutton" href="wp-content/themes/popschool/recrute.php" class="btn btn-primary yellow"><p class="txt_btn_home">Je recrute</p></a>
       <a id="btn_home" name="singlebutton" class="btn btn-primary green"><p class="txt_btn_home">Partenaires</p></a>
       <a id="btn_home" name="singlebutton" class="btn btn-primary blue"><p class="txt_btn_home">Actus</p></a>
-      <a id="btn_home" name="singlebutton" class="btn btn-primary blue"><p class="txt_btn_home">Contact</p></a>
+      <a id="btn_home" href="wp-content/themes/popschool/alumni_lens.php" name="singlebutton" class="btn btn-primary blue"><p class="txt_btn_home">Alumnis</p></a>
       <a id="btn_home" name="singlebutton" class="btn btn-primary blue"><p class="txt_btn_home">F.A.Q</p></a>
     </ul>
   </nav>
@@ -105,7 +105,6 @@
       <div class="row">
         <div class="col-md-12">
           <div class="img_replacement">
-            <p>img 100%*400px</p>
           </div>
           <div class="btnforinscri">
             <button  id="btn_inscri" name="singlebutton" class="btn btn-primary pink"><a data-target='#create_student' data-toggle='modal'><i class="glyphicon glyphicon-plus" >
@@ -137,7 +136,7 @@
     </div>
 
 
-<?php include("footer.php") ?>
+    <?php include("footer.php") ?>
 
 
 

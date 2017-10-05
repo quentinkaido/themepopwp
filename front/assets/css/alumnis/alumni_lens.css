@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'bond';
+  src: url('/wp-content/themes/popschool/fonts/Bond_4F-Desktop/Fonts/Bond_4F_Medium.otf') format('opentype');
+}
+
+body{
+  font-family: 'bond';
+}
+
+#Accueil {
+  background-color: grey;
+  height: 352px;
+  /*position: relative;*/
+  max-width: 100%;
+  width: 100%;
+}
+
+.About {
+  width: 70%;
+  text-align: center;
+}
+
+.Article {
+  background-color: black;
+  border-radius: 50%;
+  margin-left: 20%;
+  height: 150px;
+  width: 150px;
+}
+
+.Promo1 {
+  background-color: grey;
+  height: 256px;
+  margin-left: 15%;
+  /*max-width: 100%;*/
+  width: 70%;
+}
+
+.Promo2 {
+  background-color: grey;
+  height: 256px;
+  margin-left: 15%;
+  /*max-width: 100%;*/
+  width: 70%;
+}
+
+.titlehomepage01{
+  padding: 20px;
+  font-size: 4em;
+  text-align: center;
+}
+
+.titlehomepage02{
+  padding: 50px;
+  font-size: 4em;
+  margin: 2%;
+  text-align: center;
+}
+
+.zeroscroll{
+  margin: 10px;
+}
+
+.firstscroll{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+.firstscroll_02{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+}
+
+.menu-item{
+  text-align: center;
+  margin: 50px;
+  margin-bottom: 20vh;
+  color: black;
+}
+
+#paragraphe01{
+
+  text-align: center;
+  font-size: 20px;
+  background-color: #77B756;
+  border-radius: 10px;
+  color: white;
+  margin-bottom: 5%;
+  padding-bottom: 4%;
+}
+
+
+.imgcercle{
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: grey;
+  margin-bottom: 5%;
+}
+
+/*.col-sm-4 {
+  width: 100px;
+}*/
+
+.container {
+  margin-left: 18%;
+}

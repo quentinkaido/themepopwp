@@ -1,0 +1,47 @@
+
+.Photo {
+  background-color: grey;
+  height: 300px;
+  width: 200px;
+}
+
+p {
+  font-weight: bold;
+}
+
+#Swartz {
+  background-color: grey;
+  height: 352px;
+  max-width: 100%;
+  width: 100%;
+}
+
+#Wales {
+  background-color: grey;
+  height: 352px;
+  max-width: 100%;
+  width: 100%;
+}
+
+.intro {
+  color: white;
+  font-weight: bold;
+  left: 50%;
+  position: absolute;
+  margin: 0;
+  max-width: 100%;
+  top: 50%;
+  transform: translate(-50%, -450%);
+}
+
+.intro2 {
+
+  color: white;
+  font-weight: bold;
+  left: 50%;
+  position: absolute;
+  margin: 0;
+  max-width: 100%;
+  top: 50%;
+  transform: translate(-50%, -350%);
+}
